@@ -1,0 +1,7 @@
+
+{
+  "parent": "alt:block/sapphire_block",
+  "textures": {
+    "all": "alt:block/sapphire_block"
+  }
+}
